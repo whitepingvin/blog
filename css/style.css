@@ -82,6 +82,12 @@ p {
 strong {
   color: #303030;
 }
+span.post-date {
+    position: relative;
+    font: normal normal .89em 'Oswald';
+    color: darkgray;
+    top: -10px;
+}
 
 
 /* Lists */

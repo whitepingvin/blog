@@ -1,0 +1,29 @@
+# Permalinks
+permalink:        /:title/
+
+# Setup
+title:            Записки Белого Пингвина
+tagline:          'Блог. Просто блог...'
+paginate:         10
+paginate_path:    "page:num"
+highlighter:      rouge
+future:           true
+show_drafts:      true
+
+url:              https://whitepingvin.github.io/blog/
+shorturl:         whitepingvin.github.io/blog
+
+author:
+  name:           Vicktor Suver
+  url:            whitepingvin.ru
+
+# This is the list of pages to include in the header of the website.
+pages_list:
+  Контакты: '/about'
+  Архив записей: '/archive'
+  Лента: '/atom.xml'
+
+gems:
+  - jemoji
+  - jekyll-paginate
+  - jekyll-gist

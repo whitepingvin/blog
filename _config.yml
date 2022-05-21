@@ -3,7 +3,7 @@ permalink:        /:title/
 
 # Setup
 title:            Записки Белого Пингвина
-tagline:          ''
+tagline:          'Блог... просто блог.'
 paginate:         7
 paginate_path:    "page:num"
 highlighter:      rouge

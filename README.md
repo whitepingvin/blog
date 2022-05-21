@@ -8,5 +8,5 @@
 
 ![XbuntOS](https://github.com/whitepingvin/xbuntos/blob/main/img/xbuntos_banner.jpg)
 
-Почитать и узнать подробности об Операционной Системе, можно [Здесь](https://whitepingvin.github.io/blog)
+Почитать и узнать подробности можно [Здесь](https://whitepingvin.github.io/blog)
 </div>

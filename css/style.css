@@ -238,6 +238,6 @@ tbody tr:nth-child(odd) th {
 /* ------ FOOTER ------- */
 
 .fa-chevron-circle-up {
-    font-size: 3em;
+    font-size: 3em !important;
     color: #268bd2;
 }

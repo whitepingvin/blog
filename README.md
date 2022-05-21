@@ -1,4 +1,4 @@
-
+#blog
 <div id="header" align="center">
 <h1>Записки Белого Пингвина</h1>
 

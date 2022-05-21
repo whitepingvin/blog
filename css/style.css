@@ -241,3 +241,7 @@ tbody tr:nth-child(odd) th {
     font-size: 3em !important;
     color: #268bd2;
 }
+.fa-chevron-left, .fa-chevron-right {
+    font-size: 2em !important;
+    color: #268bd2;  
+}

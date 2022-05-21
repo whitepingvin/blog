@@ -72,6 +72,16 @@ h4, h5, h6 {
   margin-top: 1rem;
   font-size: 1.1rem;
 }
+h1.post-title {
+    font-family: Helvetica,'Oswald';
+    font-weight: 300;
+}
+span.post-date {
+    position: relative;
+    font: normal normal .89em 'Oswald';
+    color: darkgray;
+    top: -10px;
+}
 
 /* Body text */
 p {
@@ -82,12 +92,7 @@ p {
 strong {
   color: #303030;
 }
-span.post-date {
-    position: relative;
-    font: normal normal .89em 'Oswald';
-    color: darkgray;
-    top: -10px;
-}
+
 
 
 /* Lists */

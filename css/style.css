@@ -247,6 +247,12 @@ tbody tr:nth-child(odd) th {
     align-items: flex-end;
     justify-content: space-evenly;
 }
+svg.wave {
+    overflow: hidden;
+    margin-top: -100px;
+    position: relative;
+    z-index: -1;
+}
 h3.masthead-title a {
     color: #fff;
 }

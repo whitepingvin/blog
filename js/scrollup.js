@@ -3,12 +3,12 @@ window.onload = function() { // after page loaded
     var scrollUp = document.getElementById('scrollup');
 
     scrollUp.onmouseover = function() { // add transparency
-        scrollUp.style.opacity=0.3;
+        scrollUp.style.opacity=0.5;
         scrollUp.style.filter  = 'alpha(opacity=30)';
     };
 
     scrollUp.onmouseout = function() {
-        scrollUp.style.opacity = 0.5;
+        scrollUp.style.opacity = 0.7;
         scrollUp.style.filter  = 'alpha(opacity=50)';
     };
 

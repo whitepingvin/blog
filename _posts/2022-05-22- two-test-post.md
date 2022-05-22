@@ -2,7 +2,7 @@
 layout: post
 title: "Второй простой тестовый пост"
 permalink: test-post-two
-tags: Test, Тест-Драйв
+tags: Тест-Драйв
 ---
 
 Так вот, о чём могу сказать во второй раз...   

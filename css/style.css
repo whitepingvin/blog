@@ -265,6 +265,7 @@ h3.masthead-title a {
     max-width: 100%;
     margin: 0 auto;
     justify-content: space-between;
+    margin-top: -130px;
 }
 
 /* ------ CONTAINER ------- */

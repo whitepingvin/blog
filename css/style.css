@@ -235,6 +235,22 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+/* ------ HEADER ------- */
+
+.masthead {
+    display: flex;
+    height: 500px;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+    background: #5aa9e1;
+    color: white;
+    align-items: flex-end;
+    justify-content: space-evenly;
+}
+h3.masthead-title a {
+    color: #fff;
+}
+
 /* ------ WRAPPER BOX ------- */
 
 .wrapper__box {

@@ -361,15 +361,10 @@ a.read__more {
     color: #268bd2;  
 }
 #scrollup {
-    position: fixed; /* fixed position */
-    opacity: 0.5; /* transparency */
-    padding: 15px 10px 10px;
-    background: #aaa;
-    border-radius: 5px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    left: 10px;
-    bottom: 10px;
+    position: fixed;
+    opacity: 0.5;
+    left: 40px;
+    bottom: 40px;
     display: none;
     cursor: pointer;
 }

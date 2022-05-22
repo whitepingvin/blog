@@ -254,6 +254,13 @@ tbody tr:nth-child(odd) th {
 
 .aside {
   width: 30%;
+  padding: 0 20px;
+  margin-top: -15px;
+}
+.box__item h2 {
+    font-size: 1.3em;
+    font-weight: 300;
+    color: #268bd2;
 }
 
 /* ------ FOOTER ------- */

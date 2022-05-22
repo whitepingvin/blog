@@ -272,8 +272,14 @@ h3.masthead-title a {
 
 /* ------ CONTAINER ------- */
 .container {
-  width: 65%;
+  width: 70%;
   padding: 0 20px;
+}
+
+/* ------ POSTS ------- */
+.post {
+    padding: 15px;
+    margin-bottom: 30px;
 }
 
 

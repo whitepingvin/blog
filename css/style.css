@@ -246,12 +246,14 @@ tbody tr:nth-child(odd) th {
     color: white;
     align-items: flex-end;
     justify-content: space-evenly;
+    background: linear-gradient(180deg, #90d1ff 0%, #4b9ad3 100%);
 }
 svg.wave {
     overflow: hidden;
     margin-top: -100px;
     position: relative;
     z-index: -1;
+    fill: #4b9ad3;
 }
 h3.masthead-title a {
     color: #fff;

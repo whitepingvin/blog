@@ -281,7 +281,10 @@ h3.masthead-title a {
     padding: 15px;
     margin-bottom: 30px;
 }
-
+a.read__more {
+    display: block;
+    margin: 10px 0;
+}
 
 /* ------ SIDEBAR ------- */
 

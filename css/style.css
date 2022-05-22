@@ -238,7 +238,10 @@ tbody tr:nth-child(odd) th {
 /* ------ WRAPPER BOX ------- */
 
 .wrapper__box {
-  display: flex;
+    display: flex;
+    width: 900px;
+    max-width: 100%;
+    margin: 0 auto;
 }
 
 /* ------ FOOTER ------- */

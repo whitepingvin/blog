@@ -244,6 +244,18 @@ tbody tr:nth-child(odd) th {
     margin: 0 auto;
 }
 
+/* ------ CONTAINER ------- */
+.container {
+  width: 65%;
+}
+
+
+/* ------ SIDEBAR ------- */
+
+.aside {
+  width: 30%;
+}
+
 /* ------ FOOTER ------- */
 
 .fa-chevron-circle-up {

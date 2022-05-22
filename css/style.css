@@ -242,6 +242,7 @@ tbody tr:nth-child(odd) th {
     width: 900px;
     max-width: 100%;
     margin: 0 auto;
+    justify-content: space-between;
 }
 
 /* ------ CONTAINER ------- */

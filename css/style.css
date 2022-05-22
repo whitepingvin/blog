@@ -235,6 +235,12 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+/* ------ WRAPPER BOX ------- */
+
+.wrapper__box {
+  display: flex;
+}
+
 /* ------ FOOTER ------- */
 
 .fa-chevron-circle-up {

@@ -258,6 +258,14 @@ svg.wave {
 h3.masthead-title a {
     color: #fff;
 }
+h3.masthead-title {
+  width: 900px;
+  max-width: 100%;
+  padding: 0 40px;
+}
+span.menu__header {
+  float: right;
+}
 
 /* ------ WRAPPER BOX ------- */
 

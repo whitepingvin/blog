@@ -263,7 +263,7 @@ h3.masthead-title a {
 
 .wrapper__box {
     display: flex;
-    width: 900px;
+    width: 960px;
     max-width: 100%;
     margin: 0 auto;
     justify-content: space-between;

@@ -10,10 +10,11 @@ tags: Тестировщик_от_Бога
 эт ладно... думаю, можно что нить придумать, а если и нет, то можно и так понять, что статья продолжается и надо клацать по названию и читать всю статью...
 а можно пойти другим путём... дописывать тег редми... примерно так <code><div class="read__more"></div></code> и стилизовать его... ща глянем что да как...
 Ну и дальше идёт много интересного контента...:grin:
-<a class="read__more" href="./simply-draft-post2">Читать далее</a>
+<a class="read__more" href="https://whitepingvin.github.io/blog/simply-draft-post2#read">Читать далее</a>
 
 
 <div>
+    <div id="read"></div>
     <div>Lorem ipsum dolor sit amet.</div>
     <div>Ea ipsam laboriosam recusandae voluptatibus?</div>
     <div>Animi laborum nam quaerat sequi!</div>

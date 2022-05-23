@@ -9,10 +9,11 @@
           <a class="home__title" href="/blog" title="Home">{{ site.title }}</a>
 
           {% for page in site.pages_list %}
+          <span class="menu__header">
             &nbsp;&nbsp;&nbsp;          
             <small><a href="/blog{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
-          <span class="menu__header">
+          
             <p> <small>{{ site.tagline }}</small> </p>
           </span>
         </h3>

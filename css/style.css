@@ -295,6 +295,10 @@ a.read__more {
     display: block;
     margin: 10px 0;
 }
+div#vk_comments {
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
 
 /* ------ SIDEBAR ------- */
 

@@ -1,11 +1,11 @@
 repo_owner: whitepingvin
 repo_name: whitepingvin.github.io/blog
 disabled: false
-use_show_action: true
+use_show_action: false
 label_name: Post Comments
 label_color: 777777
 github_application:
   client_id: 34b1fd970d3884c860e1
-  code_authenticator: https://whitepingvin.github.io/blog/
-  callback_url: https://whitepingvin.github.io/blog/gpgc_redirect/index.html
+  code_authenticator: https://github.com/whitepingvin/blog/oauth/authorize
+  callback_url: https://whitepingvin.github.io/blog/gpgc_redirect.html
 enable_diagnostics: true

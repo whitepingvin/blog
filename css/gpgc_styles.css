@@ -121,9 +121,8 @@
  .gpgc-comment {
    margin-top: .8rem;
    background-color: #eee;
-   border: solid 1px #eee;
-           border-radius: 0px 0px 24px 24px;
-   -webkit-border-radius: 0px 0px 24px 24px;
+   border: solid 1px #a6d0ef;
+    border-radius: 0;
  }
  
  .gpgc-comment-header {

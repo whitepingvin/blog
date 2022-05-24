@@ -2,7 +2,7 @@
 layout: post
 title: "Привет Мир!"
 permalink: hello-world
-tags: Привет Мир!
+tags: Привет_Мир!
 ---
 
 Всем ПрЮвет!:grin::v:   

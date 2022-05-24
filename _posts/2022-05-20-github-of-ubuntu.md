@@ -6,7 +6,9 @@ tags: github
 ---
 
 ![top_img](https://whitepingvin.github.io/xbuntos/assets/github-of-ubuntu/githubdesktop.png)   
+<a class="read__more" href="https://whitepingvin.github.io/blog/github-of-ubuntu#read">Читать далее</a>
 
+<div id="read"></div>
 Шаг 1 :
 Используйте команду wget:
 

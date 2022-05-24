@@ -207,7 +207,7 @@ function onAuthenticateUserFailed() {
   updateElements(elementsToShow, elementsToHide, elementsToEnable, elementsToDisable);
   updateCommenterInformation({
     login: "You",
-    html_url: "https://whitepingvin.github.io/blog/",
+    html_url: "https://github.com/whitepingvin/blog",
     avatar_url: "https://whitepingvin.github.io/blog/img/favicon.png"
   });
 }

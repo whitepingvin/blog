@@ -7,5 +7,5 @@ label_color: 777777
 github_application:
   client_id: 34b1fd970d3884c860e1
   code_authenticator: https://whitepingvin.github.io/blog/
-  callback_url: https://whitepingvin.github.io/blog/gpgc_redirect.html
+  callback_url: https://whitepingvin.github.io/blog/gpgc_redirect/index.html
 enable_diagnostics: true

@@ -5,7 +5,7 @@ permalink: github-of-ubuntu
 tags: github
 ---
 
-![top_img](./assets/github-of-ubuntu/githubdesktop.png)
+![top_img](https://whitepingvin.github.io/xbuntos/assets/github-of-ubuntu/githubdesktop.png)   
 
 Шаг 1 :
 Используйте команду wget:

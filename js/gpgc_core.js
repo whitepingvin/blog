@@ -207,8 +207,8 @@ function onAuthenticateUserFailed() {
   updateElements(elementsToShow, elementsToHide, elementsToEnable, elementsToDisable);
   updateCommenterInformation({
     login: "You",
-    html_url: "https://github.com/wireddown/ghpages-ghcomments",
-    avatar_url: "https://raw.githubusercontent.com/wireddown/ghpages-ghcomments/gh-pages/public/apple-touch-icon-precomposed.png"
+    html_url: "https://whitepingvin.github.io/blog/",
+    avatar_url: "https://whitepingvin.github.io/blog/img/favicon.png"
   });
 }
 

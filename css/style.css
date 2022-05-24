@@ -321,6 +321,9 @@ a.tooltip span {
 
 /* ------ FOOTER ------- */
 
+.footer {
+  padding-left: 40px;
+}
 .fa-chevron-circle-up {
     font-size: 3em !important;
     color: #268bd2;

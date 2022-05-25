@@ -572,7 +572,7 @@ var stickySidebar = createCommonjsModule(function (module, exports) {
 
           var styleReset = { inner: {}, outer: {} };
 
-          styleReset.inner = { position: '', top: '', left: '', bottom: '', width: '', transform: '' };
+          styleReset.inner = { position: '', top: '', left: '' + '20px', bottom: '', width: '', transform: '' };
           styleReset.outer = { height: '', position: '' };
 
           for (var key in styleReset.outer) {

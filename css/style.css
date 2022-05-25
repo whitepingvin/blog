@@ -318,10 +318,10 @@ a.tooltip span {
     padding-left: 20px;
     display: block;
 }
-li::marker {
-  content: '\f101';
+.box__item li::marker {
+  content: '\f005';
   font-family: 'FontAwesome';
-  font-size: small;
+  font-size: xx-small;
   color: darkgray;
 }
 .box__item li a {

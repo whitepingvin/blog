@@ -327,9 +327,7 @@ a.tooltip span {
 .box__item li a {
   padding-left: 5px;
 }
-.is-affixed > .sidebar {
-  left: 65% !important;
-}
+
 
 /* ------ FOOTER ------- */
 

@@ -404,3 +404,7 @@ a.pagination-item:hover {
     text-align: center;
   }
 }
+/* ---- COMMENTS VK ---- */
+[dir] .wcomments_head {
+  background: #61b9f7 !important;
+}

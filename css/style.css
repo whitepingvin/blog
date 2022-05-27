@@ -412,7 +412,7 @@ a.pagination-item:hover {
   .vkcommentstitl {
     z-index:100;
     position:absolute;
-    background-color:#61b9f7;
+    background: linear-gradient(204deg, #99d5ff 50%, #4087bb 100%);
     width:100%;
     padding:8px 20px;
     color:#fff;}

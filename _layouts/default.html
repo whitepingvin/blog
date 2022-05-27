@@ -83,18 +83,31 @@
           &copy; {{ site.time | date: '%Y' }}. Все права защищены и соблюдаются - МО РФ.
         </p>
       </div><!-- /.footer -->
-
-      <script src='https://whitepingvin.github.io/blog/js/exp__sticky__bar.js' type='text/javascript'/>
-      <script type='text/javascript'>
-     //<![CDATA[
-        var stickySidebar = new StickySidebar(".aside", {
-          topSpacing: 20,
-          bottomSpacing: 20,
-          containerSelector: ".container",
-          innerWrapperSelector: ".sidebar"
-        });
-    //]]>
-      </script> 
-
+      <div class="vkcomments">
+        <div class="vkcommentstitl">Комментарии</div>
+          <script src='https://whitepingvin.github.io/blog/js/exp__sticky__bar.js' type='text/javascript'/>
+          <script type='text/javascript'>
+     
+             var stickySidebar = new StickySidebar(".aside", {
+              topSpacing: 20,
+              bottomSpacing: 20,
+              containerSelector: ".container",
+              innerWrapperSelector: ".sidebar"
+            });
+       
+          </script> 
+          <style>
+              .wcomments_head {
+              background: #5B7FA6 !important;
+              }
+              #submit_post_box_wrap {
+              background: #F7F7F7 !important;
+              }
+              .button_blue button, .button_blue.button_disabled button:active, .button_blue.button_disabled button.active, .button_blue.button_disabled button:hover, .button_blue.button_disabled button.hover {
+              background: #658ab0 !important;
+              color: #FFF !important;
+              }
+          </style>
+      </div>
   </body>
 </html>

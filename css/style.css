@@ -405,21 +405,16 @@ a.pagination-item:hover {
   }
 }
 /* ---- COMMENTS VK ---- */
-[dir] .wcomments_head {
-  background: #61b9f7 !important;
-}
-.wcomments_head {
-  background: #65bdf8 !important;
-  }
-  #submit_post_box_wrap {
-  background: #F7F7F7 !important;
-  }
-  .button_blue button, .button_blue.button_disabled button:active, .button_blue.button_disabled button.active, .button_blue.button_disabled button:hover, .button_blue.button_disabled button.hover {
-  background: #658ab0 !important;
-  color: #FFF !important;
-  }
-  .vkcomments {z-index:99;position:relative;}
-  .vkcommentstitl {z-index:100;position:absolute;background-color:#000;width:100%;padding:6px 20px;color:#fff;}
 
-  background-color:#000; 
-  color:#fff; 
+  .vkcomments {
+    z-index:99;
+    position:relative;}
+  .vkcommentstitl {
+    z-index:100;
+    position:absolute;
+    background-color:#61b9f7;
+    width:100%;
+    padding:6px 20px;
+    color:#fff;}
+
+ 
